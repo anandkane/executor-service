@@ -1,4 +1,4 @@
-package org.spearhead.tinybits.thread.executor;
+package org.spearhead.thread.executor;
 
 public interface Future<T extends Object> {
 	T get();

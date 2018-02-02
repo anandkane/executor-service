@@ -1,7 +1,4 @@
 .idea/
 out/
 target/
-tiny-bits.iml
-
-src/main/java/org/spearhead/tinybits/thoughtworks/
-src/main/resources/json.txt
+executor-service.iml

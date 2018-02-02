@@ -1,0 +1,37 @@
+[
+            {
+                "endDate": "2017-04-04",
+                "startDate": "2017-01-30",
+                "price": 260,
+                "category": "Kitchen",
+                "name": "Stainless Steel Cutter Peeler Tool Pineapple Seed Clip Home Kitchen Gadgets"
+            },
+            {
+                "endDate": "2018-12-04",
+                "startDate": "2017-01-30",
+                "price": 149,
+                "category": "Kitchen",
+                "name": "20.5cm Fruit Cutter Chef Kitchen Cutlery Knife Knives Choice - 07"
+            },
+            {
+                "endDate": null,
+                "startDate": "2017-01-30",
+                "price": 1737,
+                "category": "Electronics",
+                "name": "LETV LeEco Le 2 32GB Rose Gold"
+            },
+            {
+                "endDate": null,
+                "startDate": "2019-01-30",
+                "price": 999,
+                "category": "Electronics",
+                "name": "Nokia 1100"
+            },
+            {
+                "endDate": null,
+                "startDate": "2019-01-30",
+                "price": 499,
+                "category": "Furniture",
+                "name": "Homefab India Set of 2  Beautiful Marble Plain Black Curtains (HF342)"
+            }
+        ]

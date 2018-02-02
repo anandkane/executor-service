@@ -1,7 +1,7 @@
-package org.spearhead.tinybits.thread.executor;
+package org.spearhead.thread.executor;
 
-import org.spearhead.tinybits.thread.executor.state.ExecutorState;
-import org.spearhead.tinybits.thread.executor.state.ExecutorStateCreated;
+import org.spearhead.thread.executor.state.ExecutorState;
+import org.spearhead.thread.executor.state.ExecutorStateCreated;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

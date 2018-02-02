@@ -1,6 +1,6 @@
-package org.spearhead.tinybits.thread.executor.state;
+package org.spearhead.thread.executor.state;
 
-import org.spearhead.tinybits.thread.executor.Future;
+import org.spearhead.thread.executor.Future;
 
 import java.util.Queue;
 

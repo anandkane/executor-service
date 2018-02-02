@@ -1,4 +1,4 @@
-package org.spearhead.tinybits.thread.executor;
+package org.spearhead.thread.executor;
 
 import org.apache.log4j.Logger;
 
